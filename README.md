@@ -5,7 +5,7 @@
             <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dedybayu&show_icons=true&theme=omni&hide_border=true" />
         </a>
         <a href="https://github.com/dedybayu">
-            <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=dedybayu&theme=omni&hide_border=true" />
+            <img width="52%" src="https://github-readme-streak-stats.herokuapp.com/?user=dedybayu&theme=omni&hide_border=true" />
         </a>
     </p>
 </div>
